@@ -1,8 +1,7 @@
 # LER
 
 This repository is the implementation of our project of SJTU-CS222 Algorithm Design & Analysis:
-> LER：Spectral Data Augmentation for Graph Neural Network 
-> Wenyi Xue, Sijia Li, Luyuan Jin  
+> LER：Spectral Data Augmentation for Graph Neural Network  
 
 
 ### learnable LPA
